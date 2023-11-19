@@ -20,3 +20,6 @@ Let's GO
 5. Stay organized: Use project management tools, such as Trello or Asana, to track your progress and coordinate with team members. Organized workflows can lead to smoother collaboration and faster completion of tasks .    
 6. Learn from others: Read blogs, watch tutorials, or join online communities to learn new programming skills and best practices. Sharing knowledge with others can also help improve your own skills.     
 7. Practice mindfulness: Take breaks to clear your mind and focus. Mindfulness can improve productivity by reducing stress and helping you better concentrate on your current task - rather than worrying about the past or future.
+
+# 2023-11-19
+- "Keep it simple, stupid!"
