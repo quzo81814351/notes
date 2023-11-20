@@ -23,3 +23,8 @@ Let's GO
 
 # 2023-11-19
 - "Keep it simple, stupid!"
+
+# 2023-11-20
+- "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning." - Rick Cook
+
+This quote highlights the ongoing challenge for programmers to create robust and user-friendly software, while also acknowledging the unpredictable nature of user behavior. It serves as a reminder to always consider the end-user and anticipate potential issues in our code.
