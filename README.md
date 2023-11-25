@@ -54,3 +54,14 @@ Another important aspect of programming wise is problem-solving. When faced with
 
 # 2023-11-24
 - "Keep it simple, stupid!"
+
+# 2023-11-25
+- Today's programming wisdom is to always prioritize code readability and maintainability. This means writing concise, well-structured, and easy-to-understand code that can be easily modified and expanded upon as needed. To achieve this, follow these best practices:
+
+1. Use clear variable, function,and class names that reflect their purpose and make them easy to identify.
+2. Follow coding conventions and standards that are common in your programming language and ecosystem.This will make your code more consistent and easier to read for others. 
+3. Break yourcode into logical, modular, reusable pieces, following the SOLID principles of software design.Organize your functions and classes into a coherent hierarchy.Use comments and documentation to explain your intentions and code logic.  
+4. Write code with a single-entry, single exit principle in mind. Avoid nested blocks and use appropriate control flow statements to manage your program' s flow.   
+5. Minimize global variables and avoid using global state when possible. Instead, pass data through functions or use local variables.    
+6. Optimize and refactor your codeslowly but surely.Keep an eye out for potential performance issues and fix them as necessary.However, don't optimize prematurely, as this can lead to more difficult- to-maintain code.     
+7. Learn from the code you write and constantly improve your skills. Read other people' code and learn from it. Attend coding workshops, read books, blogs, articles, etc. to stay up-do-date with the latest programming trends and techniques.
