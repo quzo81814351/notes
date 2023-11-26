@@ -65,3 +65,6 @@ Another important aspect of programming wise is problem-solving. When faced with
 5. Minimize global variables and avoid using global state when possible. Instead, pass data through functions or use local variables.    
 6. Optimize and refactor your codeslowly but surely.Keep an eye out for potential performance issues and fix them as necessary.However, don't optimize prematurely, as this can lead to more difficult- to-maintain code.     
 7. Learn from the code you write and constantly improve your skills. Read other people' code and learn from it. Attend coding workshops, read books, blogs, articles, etc. to stay up-do-date with the latest programming trends and techniques.
+
+# 2023-11-26
+- "Today's programming wisdom is to focus on writing clean, maintainable, and modular code. Invest time in planning and designing your software architecture to ensure scalability, flexibility, and ease of testing. Remember, code is read more often than it is written, so strive for clarity and readability. Use meaningful variable names, write concise comments, and follow established coding conventions. Lastly, embrace continuous learning and stay up-to-date with the latest programming paradigms, tools, and best practices to enhance your problem-solving skills and deliver high-quality software solutions."
