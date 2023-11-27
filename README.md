@@ -68,3 +68,8 @@ Another important aspect of programming wise is problem-solving. When faced with
 
 # 2023-11-26
 - "Today's programming wisdom is to focus on writing clean, maintainable, and modular code. Invest time in planning and designing your software architecture to ensure scalability, flexibility, and ease of testing. Remember, code is read more often than it is written, so strive for clarity and readability. Use meaningful variable names, write concise comments, and follow established coding conventions. Lastly, embrace continuous learning and stay up-to-date with the latest programming paradigms, tools, and best practices to enhance your problem-solving skills and deliver high-quality software solutions."
+
+# 2023-11-27
+- "Programming wisdom for today: Always write code as if the person who will maintain it is a violent psychopath who knows where you live." 
+
+This quote emphasizes the importance of writing clean, understandable, and well-documented code. It's not only helpful for yourself when you need to revisit your code in the future, but also for others who may need to work on the same project. Writing code that is difficult to understand or modify can lead to frustration and mistakes, so it's important to take the time to make your code easy to read and maintain.
