@@ -98,3 +98,6 @@ First, prioritize your tasks. When you're working on a project, there will alway
 
 # 2023-12-04
 - "Keep it simple, stupid!"
+
+# 2023-12-05
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. By prioritizing tasks based on their importance and urgency, you can make better use of your time and ensure that you focus on the right things. Planning ahead can help to avoid last-minute emergencies and allow you time to prepare for potential issues. Finally, staying organized can ensure your code is clean, readable,and maintainable, making it easier for others to work with you and for youto come back to your project later.
