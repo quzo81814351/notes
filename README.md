@@ -107,3 +107,6 @@ First, prioritize your tasks. When you're working on a project, there will alway
 
 # 2023-12-07
 - "Keep it simple, stupid!"
+
+# 2023-12-08
+- "Keep it simple, stupid!"
