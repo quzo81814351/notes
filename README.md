@@ -115,3 +115,8 @@ First, prioritize your tasks. When you're working on a project, there will alway
 - Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
 
 First, prioritize your tasks. When you're working on a project, there will always be multiple things that need to get done. By identifying which tasks are most important and which can wait, you can make sure that you focus on the right things at the Right time. Use a task management tool, such as Trello or Asana, to keep track of your to-dos and make adjustments as needed.
+
+# 2023-12-10
+- "Premature optimization is the root of all evil" - Donald Knuth. 
+
+As a programmer, it's important to focus on writing clear and understandable code first, rather than trying to optimize it for performance too early in the development process. Optimization should only be done after profiling and identifying actual bottlenecks in the code. Prioritizing readability and maintainability will save time and headaches in the long run.
