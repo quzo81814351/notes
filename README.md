@@ -120,3 +120,6 @@ First, prioritize your tasks. When you're working on a project, there will alway
 - "Premature optimization is the root of all evil" - Donald Knuth. 
 
 As a programmer, it's important to focus on writing clear and understandable code first, rather than trying to optimize it for performance too early in the development process. Optimization should only be done after profiling and identifying actual bottlenecks in the code. Prioritizing readability and maintainability will save time and headaches in the long run.
+
+# 2023-12-11
+- "Keep it simple, stupid!"
