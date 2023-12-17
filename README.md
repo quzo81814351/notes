@@ -144,3 +144,6 @@ This quote reminds us that optimizing code too early in the development process 
 Second, planning ahead is crucial. Before starting a new project or undertaking a large task, take the time to plan out your approach. Break down the task into smaller, manageable steps, then allocate time for each step. Planning ahead will ensure you have a clear roadmap and can avoid getting lost in the weeds. 
  --
  Additionally, stay organised in all aspects of your workflow. Use version control systems like Git to track your code and collaborate with others. Keep your workspace clean and clutter-free, as this can help reduce the amount of time spent searching for files or fixing merge conflicts. Finally, document your process and code, so others can understand your thought process, making it easier to maintain and contribute to your projects.
+
+# 2023-12-17
+- "Keep it simple, stupid!"
