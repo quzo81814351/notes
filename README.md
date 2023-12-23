@@ -172,3 +172,6 @@ This quote reminds us that while optimizing code for efficiency is important, it
 5. Set deadlines: For each task on your list , set a deadline by which you want to have it completed. Deadlines can serve as a reminder to focus and keep moving forward. They can also help with time management by giving you an idea of how much time you should allocate to each step.    
 6. Stay organized: Keep your workspace clean and organized to reduce stress and confusion. As you complete tasks , be sure to file or organize the relevant information in a way that makes sense to you. Organized workspaces can lead to more effective work habits and a clearer mind.     
 7. Learn from your mistakes: As a programmer,you're going to make mistakes. It' s essential to learn from them and grow. Every error should be viewed as an opportunity to improve your understanding of the problem and the code. Don't be afraid to ask for help or look up solutions online.
+
+# 2023-12-23
+- "Keep it simple, stupid!"
