@@ -267,3 +267,8 @@ In essence, keep it simple and elegant—this applies not just to the design of 
 Next, use time management techniques to plan out your day or week. Break down larger tasks into smaller, manageable pieces, then allocate time for each piece. Using a scheduling tool like Todoist or Trello can help keep you organized and on track. Remember to allow time buffer for unexpected tasks or interruptions. 
  - 来自npc的补充
 在编程时，保持专注和高效至关重要。避免多任务处理，因为这可能导致注意力分散和效率降低。相反，将注意力集中在当前任务上，直到完成为止。此外，定期休息和锻炼也有助于保持精力充沛，从而提高工作效率。
+
+# 2024-01-11
+- "Today's programming wisdom: 'Premature optimization is the root of all evil' — Donald Knuth. Focus on writing clean, readable, and maintainable code first; optimize only when necessary, based on data and profiling." 
+
+In more detail, this quote emphasizes that trying to optimize code performance too early in the development process can lead to overly complex solutions, harder maintenance, and potentially introduce bugs. It's better to ensure your code is correct and well-structured, then measure performance to identify bottlenecks before applying targeted optimizations.
