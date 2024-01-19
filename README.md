@@ -306,3 +306,9 @@ In practice, it means choosing the right tools and patterns for the task at hand
 
 # 2024-01-18
 - Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your coding endeavors. First, determine which tasks are the most important and which can wait until later. Then, allocate time for each task based on its complexity and importance. Finally, use version control and other organizational tools to keep your code clean and easy to manage. By following these tips, you will be able to complete your projects more quickly and with fewer errors.
+
+# 2024-01-19
+- Today's programming wisdom is to be a lifelong learner, always staying up-to-date with the latest technologies and programming languages. This involves reading blogs, articles, and books, attending workshops and conferences, as well as participating in online forums and communities. By constantly updating your knowledge and skills, you will become a more valuable asset to your team or organization.
+
+Another piece of wisdom in programming is the importance of writing clean, well-structured,and modular code.This not only makes your code easier to understand and maintain, but also reduces the likelihood of errors and bugs. To achieve this, follow best practices such as using appropriate data structures, organizing code into functions and classes, commenting your codes, using version control systems, like Git, for collaboration, testing and debugging your programs, etc. 
+ 此外，编程的智慧还包括与团队协作。学会与他人有效沟通，分享想法和代码，以及倾听他人的意见和建议。这将有助于提高整个团队的效率和生产力。最后，保持耐心和专注，因为编程需要时间和努力才能取得成功。通过不断实践和学习，你将逐渐掌握编程的精髓，成为一名出色的程序员。
