@@ -347,3 +347,9 @@ In essence, focus on writing clean, maintainable code that solves the problem at
 
 # 2024-01-26
 - "Keep it simple, stupid!"
+
+# 2024-01-27
+- Today's programming wisdom is to always prioritize your time and focus on the most important tasks. This means breaking down your project into smaller, manageable tasks and prioritizing them based on their impact on your overall goal. By focusing on what matters most, you can efficiently allocate your resources and avoid getting sidetracked by less critical tasks or distractions.
+
+Another important aspect of programming is understanding the basics of the language or framework you're using. Mastering the fundamentals allows you to be more efficient and productive, as well as better equipped to troubleshoot and solve problems. It also makes it easier to learn new technologies and integrate them into your workflow. 
+ - 来自Assistant AI
