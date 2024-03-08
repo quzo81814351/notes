@@ -558,3 +558,8 @@ This quote emphasizes the importance of avoiding over-engineering and unnecessar
 
 # 2024-03-07
 - "Keep it simple, stupid!"
+
+# 2024-03-08
+- "Today's programming wisdom: 'Premature optimization is the root of all evil' - Donald Knuth. Focus on writing clean, readable, and maintainable code first. Optimize only when necessary and after profiling. Remember that clarity and simplicity often lead to better performance in the long run." 
+
+In more detail, this quote emphasizes that over-concern with optimizing code early in development can lead to complex, hard-to-understand solutions which are difficult to maintain. Instead, ensure your code works correctly, is structured well, and then optimize selectively where it will have the most significant impact. The understanding and maintenance of code by you and your team matter as much as its speed, especially given that many optimizations may be unnecessary or made obsolete by advancements in technology.
